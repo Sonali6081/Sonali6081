@@ -38,9 +38,17 @@
 ## 🔥 Featured Projects
 
 ### 🔹 Sorting Visualizer  
-📌 Built using React.js  
+📌 Built using React.js | HTML, CSS, JS 
 🎯 Visualizes Bubble, Selection, Insertion & Merge Sort  
 🔗 *https://github.com/Sonali6081/PROJECT-Sorting-Visualizer* 
+
+---
+
+### 🔹 Myntra Clone  
+📌 Built using   HTML CSS JS
+🎯 In this i have tried to make a look like clone of Myntra website.  
+🔗 *https://b183bdca-67ff-4592-91c7-6a46dacd7dcd-00-2orugryg4xljo.sisko.replit.dev/*
+🔗 *https://sonali6081.github.io/Myntra-Clone/* 
 
 ---
 
